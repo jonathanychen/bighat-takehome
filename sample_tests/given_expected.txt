@@ -1,0 +1,5 @@
+Start: [some time]
+0 A
+5 B
+7 C
+End: 7s

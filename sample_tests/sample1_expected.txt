@@ -1,0 +1,8 @@
+Start: [some time]
+0 A
+3 D
+5 B
+7 C
+7 C
+8 C
+End: 8s
