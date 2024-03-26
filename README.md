@@ -17,9 +17,11 @@ Concurrency is my preferred way of tackling this problem, because then using a b
 These Goroutines, when used with <a href="https://gobyexample.com/waitgroups">wait groups</a>, allow for a relatively clean recursive implementation.
 
 
-### Sample Test:
+## Sample Test:
 
 Input (given in assignment): 
+
+<img src="sample_tests/given_diagram.png">
 
 ```{"A": {"start": true, "edges": {"B": 5, "C": 7}}, "B": {"edges": {}}, "C": {"edges": {}}}```
 
